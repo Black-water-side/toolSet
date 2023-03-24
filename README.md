@@ -13,3 +13,5 @@ Just like the name
 #### [spring-framework](https://github.com/spring-projects/spring-framework)
 #### [Tampermonkey---油猴](https://github.com/Tampermonkey/tampermonkey)
 #### [chinese-dos-games---游戏合集](https://github.com/rwv/chinese-dos-games)
+#### [神级注释](https://github.com/Blankj/awesome-comment)
+#### [多种HelloWorld](https://github.com/leachim6/hello-world)
